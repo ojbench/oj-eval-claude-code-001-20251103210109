@@ -1,0 +1,9 @@
+# Build artifacts
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+code
+
+# Common build dirs
+build/
